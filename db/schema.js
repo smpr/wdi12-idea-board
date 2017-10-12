@@ -20,7 +20,7 @@ const ideaSchema = new Schema({
    
 });
 const userSchema = new Schema({
-    name: {
+    userName: {
         type: String,  
     },
     password: {
